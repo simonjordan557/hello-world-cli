@@ -9,4 +9,6 @@ This is a change made on the Linux CLI.
 
 This is a change made online, to be pulled into the Linux CLI.
 
+This is another change made online, to test the 'git fetch' command.
+
 
